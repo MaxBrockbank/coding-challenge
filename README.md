@@ -8,7 +8,7 @@ Clone this repository and push your solutions to your own GitHub account. See em
 
 A global array, `window.iceCreamFlavors`, is empty on page load. At a random point shortly after page load, this array will be populated by a list of string data.
 
-Provide JavaScript code which will reliably retrieve this data soon after it is updated, and display it on the page in a manner of your choosing. The data does not need to be instantaneously retrieved, but should be used quickly after it is available.
+Provide JavaScript code which will reliably retrieve this data after it is updated, and display it on the page in a manner of your choosing. The data should be used as soon as possible after it is available.
 
 How to install:
 
