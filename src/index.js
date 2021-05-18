@@ -2,7 +2,7 @@ if (process.env.NODE_ENV) {
   window.iceCreamFlavors = [];
   console.log(window.iceCreamFlavors);
 
-  const delay = Math.round(Math.random() * 1000) + 400;
+  const delay = Math.round(Math.random() * 3000) + 400;
 
   setTimeout(() => {
     window.iceCreamFlavors = [
